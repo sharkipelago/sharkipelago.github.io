@@ -14,9 +14,10 @@
 
     <header>
       <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
+        <!-- <a id="a-title" href="{{ '/' | relative_url }}">
+           <h1>{{ site.title | default: site.github.repository_name }}</h1>  
+        </a>-->
+        <h1 id="a-title">{{page.title}}</h1>
         <!-- <h2>{{ site.description | default: site.github.project_tagline }}</h2> -->
         <a href="{{ site.github.repository_url }}">View on GitHub</a>
 
