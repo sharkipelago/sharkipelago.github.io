@@ -57,3 +57,5 @@ Anyone who has not filled out the form yet and still wants to play, fill out the
 - Kills with dirty socks count, but you will be severely penalized
 - `New Rule 3` (10/25 Late Update): If you're witness killing in public, your immunity is disabled, meaning anyone trying to kill you via `New Rule 2` can do so regardless of if you have immunity
 - `New Rule 4` (10/27 Update): Anybody designated as a celebrity assassin can be killed by anyone (including dead players) and can try to kill anyone in the game. There will be a reward for killing a celebrity assassin. Dead players cannot come back to life but will also be given a reward to torment living players.
+- You may not try to kill your assassin if they attempt to kill you, you can only run or have immunity 
+- If you kill a player wearing/holding an immunity the kill is invalid, your target knowing who their assassin's identity is penalty enough
