@@ -1,0 +1,143 @@
+- Assassin: Stella
+  DeathDate: Oct 19
+  Kills:
+  - John
+  Name: Aisha
+  Pod: Arabic
+  VictimNumber: 1
+- Assassin: Stella
+  DeathDate: Oct 20
+  Kills: []
+  Name: Hank
+  Pod: Japanese
+  VictimNumber: 2
+- Assassin: Thomas
+  DeathDate: Oct 21
+  Kills:
+  - Aisha
+  - Hank
+  Name: Stella
+  Pod: Japanese
+  VictimNumber: 3
+- Assassin: Sebastian
+  DeathDate: Oct 23
+  Kills:
+  - Sebastian
+  - Michelle
+  Name: Sebastian
+  Pod: ASL
+  VictimNumber: 4
+- Assassin: Julia
+  DeathDate: Oct 24
+  Kills: []
+  Name: Wakako
+  Pod: Japanese
+  VictimNumber: 5
+- Assassin: Kaili
+  DeathDate: Oct 24
+  Kills:
+  - Wakako
+  Name: Julia
+  Pod: Chinese
+  VictimNumber: 6
+- Assassin: Melanie
+  DeathDate: Oct 28
+  Kills: []
+  Name: Praphul
+  Pod: Japanese
+  VictimNumber: 7
+- Assassin: John
+  DeathDate: Oct 30
+  Kills: []
+  Name: Clarissa
+  Pod: Chinese
+  VictimNumber: 8
+- Assassin: Sebastian
+  DeathDate: Oct 31
+  Kills: []
+  Name: Michelle
+  Pod: Chinese
+  VictimNumber: 9
+- Assassin: Melanie
+  DeathDate: Nov 2
+  Kills: []
+  Name: Max
+  Pod: Russian
+  VictimNumber: 10
+- Assassin: Ezgi
+  DeathDate: Nov 3
+  Kills: []
+  Name: Jolinna
+  Pod: Chinese
+  VictimNumber: 11
+- Assassin: Thomas
+  DeathDate: Nov 3
+  Kills:
+  - Jolinna
+  Name: Ezgi
+  Pod: Arabic
+  VictimNumber: 12
+- Assassin: John
+  DeathDate: Nov 3
+  Kills: []
+  Name: Rithika
+  Pod: Chinese
+  VictimNumber: 13
+- Assassin: Thomas
+  DeathDate: Nov 7
+  Kills: []
+  Name: Alex
+  Pod: German
+  VictimNumber: 14
+- Assassin: John
+  DeathDate: Nov 9
+  Kills:
+  - Stella
+  - Ezgi
+  - Alex
+  Name: Thomas
+  Pod: Arabic
+  VictimNumber: 15
+- Assassin: Melanie
+  DeathDate: Nov 9
+  Kills:
+  - Julia
+  Name: Kaili
+  Pod: Japanese
+  VictimNumber: 16
+- Assassin: Alexa
+  DeathDate: Nov 10
+  Kills: []
+  Name: Connor
+  Pod: Japanese
+  VictimNumber: 17
+- Assassin: Melanie
+  DeathDate: Nov 10
+  Kills: []
+  Name: Emily
+  Pod: Japanese
+  VictimNumber: 18
+- Assassin: John
+  DeathDate: Nov 17
+  Kills:
+  - Praphul
+  - Max
+  - Kaili
+  - Emily
+  Name: Melanie
+  Pod: German
+  VictimNumber: 19
+- Assassin: Aisha
+  DeathDate: Nov 17
+  Kills:
+  - Clarissa
+  - Rithika
+  - Thomas
+  - Melanie
+  Name: John
+  Pod: German
+  VictimNumber: 20
+- Kills:
+  - Connor
+  Name: Alexa
+  Pod: German
